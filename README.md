@@ -4,7 +4,7 @@
 
 直接将 `zip_file.hpp` 头文件拷贝到项目中即可。
 
-经过测试，在 `Ubuntu 22.04 x86_64` 上使用 gcc 12 编译器以及 windows11 中使用 visual studio2022 工具链没有问题。
+经过测试，在 `Ubuntu 22.04 x86_64` 上使用 gcc 12 编译器、 windows11 中使用 visual studio2022 工具链以及`macOS 15.3`上使用 clang 19.1.6 没有问题。
 
 ## 使用示例
 
